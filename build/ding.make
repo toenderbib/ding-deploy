@@ -207,6 +207,12 @@ projects[dynamo][download][type] = "git"
 projects[dynamo][download][url] = "https://github.com/dingproject/dynamo.git"
 projects[dynamo][download][revision] = "v2.1.5"
 
+; Toneder theme
+
+projects[toender][type] = "theme"
+projects[toender][download][type] = "git"
+projects[toender][download][url] = "https://github.com/toenderbib/toender.git"
+
 ; Ding modules
 
 projects[alma][type] = "module"
